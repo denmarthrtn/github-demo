@@ -1,1 +1,1 @@
-Hi I'm Denmar, This is a git demo
+This is a demo. I am just exploring git to learn more.
